@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Data Analatics
-- 💞️ I’m looking to collaborate on ...Data analasis and data visualization
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on Data analasis and data visualization
 - 📫 How to reach me ...mohitmahor39gmail.com
 
 <!---
