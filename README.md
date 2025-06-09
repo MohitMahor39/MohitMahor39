@@ -4,13 +4,12 @@ I'm Mohit, an Automation Engineer with a keen interest in Python and Django deve
 
 ### About Me
 - 💼 Working as: Automation Engineer
-- 🌱 Currently learning: Django
 
 ### My Skills
-- Programming Languages: Python, SQL, HTML.
-- Web Framework: Django.
-- Libraries: Pandas, pdfplumber, openpyxl, selenium, requests, matplotlib, threading, regex.
-- Tools: Git, GitHub, PostgreSQL, MySQL, Jupyter Notebook, Idle, Power Bi, SAP scripting tracker tool.
+- Programming Languages: Python, SQL.
+- Web Framework: Flask.
+- Libraries: Pandas, pdfplumber, openpyxl, selenium, requests, matplotlib, regex.
+- Tools: GitHub, PostgreSQL, MySQL, Power Bi, SAP scripting tracker tool.
 
 ### Looking to Collaborate On
 - Python development
